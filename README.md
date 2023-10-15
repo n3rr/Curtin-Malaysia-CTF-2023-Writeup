@@ -4,10 +4,10 @@
 
 Curtin University Malaysia held a 24 hours non-stop online CTF competition on 14-15 October 2023.
 
-My team (N4B4T1) managed to get top 10 in this competition XD 
+Our team (N4B4T1) managed to get top 10 in this competition XD 
 but there are some challenges that we did not managed to solve.
 
-p/s: This writeup is for my future refference.
+p/s: This writeup is for our future refference.
 
 # Category
 <details>
