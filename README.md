@@ -59,9 +59,13 @@ p/s: This writeup is for my future refference.
 
   | Challenge | Points |
   | --- | --- |
-  | [-](-) | - |
-  | [-](-) | - |
-  | [-](-) | - |
+  | [Intro To Buffer Overflow](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/blob/main/Pwn%20%26%20Reverse%20Engg/Intro%20To%20Buffer%20Overflow/Intro%20To%20Buffer%20Overflow.md) | 100 |
+  | [Don't Go Overboard](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/blob/main/Pwn%20%26%20Reverse%20Engg/Don't%20Go%20Overboard/Don't%20Go%20Overboard.md) | 200 |
+  | [Don't Go Overboard 2](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/blob/main/Pwn%20%26%20Reverse%20Engg/Don't%20Go%20Overboard%202/Don't%20Go%20Overboard%202.md) | 300 |
+  | [Let The Random Games Begin 1](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/blob/main/Pwn%20%26%20Reverse%20Engg/Let%20The%20Random%20Games%20Begin%201/Let%20The%20Random%20Games%20Begin%201.md) | 100 |
+  | [Let The Random Games Begin 2](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/blob/main/Pwn%20%26%20Reverse%20Engg/Let%20The%20Random%20Games%20Begin%202/Let%20The%20Random%20Games%20Begin%202.md) | 200 |
+  | [Let The Random Games Begin 3](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/blob/main/Pwn%20%26%20Reverse%20Engg/Let%20The%20Random%20Games%20Begin%203/Let%20The%20Random%20Games%20Begin%203.md) | 400 |
+  | [Classic Buffer Overflow](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/blob/main/Pwn%20%26%20Reverse%20Engg/Classic%20Buffer%20Overflow/Classic%20Buffer%20Overflow.md) | 400 |
   
 </details>
 
