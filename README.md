@@ -6,3 +6,15 @@ My team (N4B4T1) managed to get top 10 in this competition XD
 but there are some challenges that we did not managed to solve.
 
 p/s: This writeup is for my future refference.
+
+# Category
+<details>
+<summary>SQLi</summary>
+
+  | Challenge | Points |
+  | --- | --- |
+  | [-](-) | - |
+  | [-](-) | - |
+  | [-](-) | - |
+  
+</details>
