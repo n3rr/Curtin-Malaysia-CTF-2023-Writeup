@@ -18,3 +18,69 @@ p/s: This writeup is for my future refference.
   | [-](-) | - |
   
 </details>
+
+<details>
+<summary>Web General</summary>
+
+  | Challenge | Points |
+  | --- | --- |
+  | [-](-) | - |
+  | [-](-) | - |
+  | [-](-) | - |
+  
+</details>
+
+<details>
+<summary>Crypto</summary>
+
+  | Challenge | Points |
+  | --- | --- |
+  | [-](-) | - |
+  | [-](-) | - |
+  | [-](-) | - |
+  
+</details>
+
+<details>
+<summary>Forensics</summary>
+
+  | Challenge | Points |
+  | --- | --- |
+  | [-](-) | - |
+  | [-](-) | - |
+  | [-](-) | - |
+  
+</details>
+
+<details>
+<summary>Pwn & Reverse Engg</summary>
+
+  | Challenge | Points |
+  | --- | --- |
+  | [-](-) | - |
+  | [-](-) | - |
+  | [-](-) | - |
+  
+</details>
+
+<details>
+<summary>OSINT</summary>
+
+  | Challenge | Points |
+  | --- | --- |
+  | [-](-) | - |
+  | [-](-) | - |
+  | [-](-) | - |
+  
+</details>
+
+<details>
+<summary>General</summary>
+
+  | Challenge | Points |
+  | --- | --- |
+  | [-](-) | - |
+  | [-](-) | - |
+  | [-](-) | - |
+  
+</details>
