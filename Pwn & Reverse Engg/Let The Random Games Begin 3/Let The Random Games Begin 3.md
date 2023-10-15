@@ -1,10 +1,10 @@
-# Let The Random Games Begin 2
+# Let The Random Games Begin 3
 
-![image](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/assets/129729880/84a9e9f9-a72a-4b2f-a856-d632d823327f)
+![image](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/assets/129729880/a6dc3f09-cca8-4f6a-ad6c-a8f5eff9fabb)
 
 ## Solution
 
-Same as the first one, but this time, the program will give us a long and random number, looping from 100000000 - 999999999.
+Same as before, but this time, the program will give us a long and random number, looping from 100000000 - 999999999.
 
 As i know, it has two ways of solving this challenge.
 
