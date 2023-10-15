@@ -29,3 +29,11 @@ Boom soo go back to the hint its says username and password of voldemort
 ## Flag
 
 CURTIN_CTF{872fc8ed4cae593dc5e62f00157b7db6}
+
+## Add ons
+
+![image](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/assets/129729880/82004823-6ac4-4500-90a1-c9d7418fdb1f)
+
+I modified the payload to see the username
+
+Payload: `123' UNION SELECT null, username, password, null, null FROM users;-- -`
