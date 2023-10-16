@@ -12,7 +12,7 @@ soo to get this we must contain the keys but I found some website that can brute
 
 ![image](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/assets/129729880/40f5f30f-52c7-4c6b-8e0a-16e9672b7105)
 
-Soo after succesfull decrpyt the decode text ..the flag at the descrption look the same as the decode text that how I figure the flag and the key which is the clue for this challenge : oppenheimer
+Soo after succesfull decrpyt the decode text ..the flag at the descrption look the same as the decode text that how I figure the flag and the key which is the clue for this challenge : `oppenheimer`
 
 ## Flag
 
