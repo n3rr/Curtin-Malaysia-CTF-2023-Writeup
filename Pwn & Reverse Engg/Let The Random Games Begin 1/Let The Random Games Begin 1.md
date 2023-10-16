@@ -4,7 +4,7 @@
 
 ## Solution
 
-The program wamts us to guess the random number correctly 5 times.
+The program wants us to guess the random number correctly 5 times.
 
 When i run the program, actually the number is not so random.
 
