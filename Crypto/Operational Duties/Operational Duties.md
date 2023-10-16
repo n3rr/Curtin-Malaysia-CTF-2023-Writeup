@@ -4,7 +4,7 @@
 
 ## Solution
 
-For this challenge we been given some file .py and enc.txt soo I make a script to decode this
+For this challenge we been given some file `.py` and `enc.txt` soo I make a script to decode this
 
 ![image](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/assets/129729880/eda8f18d-ff7f-4d54-b1cf-3d17f7174f7c)
 
