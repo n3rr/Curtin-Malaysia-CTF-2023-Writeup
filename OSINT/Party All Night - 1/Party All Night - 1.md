@@ -8,7 +8,7 @@ For this question, firstly I used google lens on the photo to find a website wit
 
 ![image](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/assets/129729880/982ab995-5e01-4c26-b819-96432a6bd5d7)
 
-With further googling on the name of the hotel we found the real website of the Hotel which was palmgreen.
+With further googling on the name of the hotel we found the real website of the Hotel which was `palmgreen`.
 
 in which reveals the name of the bar and the name of the restaurant which was the flag
 
