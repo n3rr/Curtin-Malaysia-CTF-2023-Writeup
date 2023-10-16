@@ -6,7 +6,7 @@
 
 I think this is the trickiest challenge I have ever faced. 
 
-When i run the program, it will show something like ltrace or strace command.
+When i run the program, it will show something like `ltrac`e or `strace` command.
 
 I blanked for hours.. hahahah.
 
