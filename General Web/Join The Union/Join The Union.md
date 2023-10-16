@@ -14,7 +14,7 @@ From here we got secret directory soo I try to go there first time but error app
 
 ![image](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/assets/129729880/66afc040-e204-4cd0-b19a-845a759691fc)
 
-Basically at the login form it has appear /path so from that we modify it to request to get the flag
+Basically at the login form it has appear `/path` so from that we modify it to request to get the flag
 
 ```
 POST /g3t_53cR3t_fl4g HTTP/1.1
