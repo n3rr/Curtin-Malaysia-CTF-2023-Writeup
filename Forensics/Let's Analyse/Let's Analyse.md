@@ -4,7 +4,7 @@
 
 ## Solution
 
-Soo for this challenge we need to analyze pcap filee soo let me show you how I got the creedential of joe
+Soo for this challenge we need to analyze `.pcap` filee soo let me show you how I got the creedential of joe
 
 I filter http stream and search for post method and login succesfull
 
@@ -12,9 +12,9 @@ I filter http stream and search for post method and login succesfull
 
 Boom we got credential of joe
 
-Username: john.doe 
+Username: `john.doe` 
 
-Password: yt6C3MMGhMzwf45
+Password: `yt6C3MMGhMzwf45`
 
 And the connect it to the server I forgot the port
 
