@@ -4,7 +4,11 @@
 
 ## Solution
 
-For this challenges I got secret.txt file soo when I open it its seem like .txt is not the file format so I check the file type and know that its actually .zip file soo I convert it to zip and when I open it I contain forensic2 and that’s how I got the flag 
+For this challenges I got `secret.txt` file 
+
+soo when I open it its seem like `.txt` is not the file format so I check the file type and know that its actually `.zip` file 
+
+soo I convert it to zip and when I open it I contain `forensic2` and that’s how I got the flag 
 
 ![image](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/assets/129729880/dcacc167-b891-4d8b-b850-dcc3bd72609c)
 
