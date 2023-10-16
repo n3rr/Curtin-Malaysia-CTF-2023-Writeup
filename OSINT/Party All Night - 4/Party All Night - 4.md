@@ -8,7 +8,7 @@ This is probably one of the weirdest yet not exactly the hardest OSINT challenge
 
 ![image](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/assets/129729880/7287fd0e-c2c9-4c0a-8ff5-3134289678d7)
 
-The flag was No. 3 on the list which was Humayun’s Tomb
+The flag was No. 3 on the list which was `Humayun’s Tomb`
 
 ## Flag
 
