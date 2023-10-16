@@ -9,7 +9,7 @@ This time, again, the number is not so random.
 
 If we run the program many times, we will see a set of "random numbers" in random sequence.
 
-So, to make things faster, I input “a” and it will show all five “random numbers”.
+So, to make things faster, I input `a` and it will show all five “random numbers”.
 
 Copy n paste it in the next sequence, the first random number given is your guide of which set are you on.
 
