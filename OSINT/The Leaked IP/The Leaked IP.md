@@ -4,7 +4,9 @@
 
 ## Solution
 
-We have given some ip address which is 79.179.206.211 soo I open osint framwork to find out the spesific ip but I have some basic osint skill soo I just type “ <ip> “ and that’s how I got the name of the city. 
+We have given some ip address which is 79.179.206.211 
+
+soo I open osint framwork to find out the spesific ip but I have some basic osint skill soo I just type `“ <ip> “` and that’s how I got the name of the city. 
 
 ## Flag
 
