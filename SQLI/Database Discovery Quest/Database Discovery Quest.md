@@ -4,7 +4,7 @@
 
 ## Solution
 
-For this challenge I login first to admin and go to the searchprodect page soo i need to pull out some database from the database mysql soo I use this payload and gain the flag. Payload: 123' union select database (),2,3,4,5-- -
+For this challenge I login first to admin and go to the searchprodect page soo i need to pull out some database from the database mysql soo I use this payload and gain the flag. Payload: `123' union select database (),2,3,4,5-- -`
 
 #notes 
 Before I got this payload I need to find out the row and column to get the table soo I analyze using this payload before I got retrive the flag.
