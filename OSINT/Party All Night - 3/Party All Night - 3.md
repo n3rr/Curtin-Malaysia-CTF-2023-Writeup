@@ -4,7 +4,7 @@
 
 ## Solution
 
-From the previous Party All Night - 2 (250), we were able to find this picture on the website makemytrip.com 
+From the previous Party All Night - 2 (250), we were able to find this picture on the website `makemytrip.com`
 
 it was on the guest review that we find a post and the date which turns out to be the flag.
 
