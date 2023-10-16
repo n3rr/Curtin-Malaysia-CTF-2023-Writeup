@@ -14,7 +14,7 @@ What I did what inspect the source code to see the source off all these pictures
 
 ![image](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/assets/129729880/bcefc7d7-09bb-42a8-8ee8-cf27c25773ed)
 
-Then i change img src of the missing picture to img src=”/static/Content.png” to reveal the flag: 
+Then i change img src of the missing picture to `img src=”/static/Content.png”` to reveal the flag: 
 
 ![image](https://github.com/6E3372/Curtin-Malaysia-CTF-2023/assets/129729880/8b6c43a6-ab6c-4e2b-a235-1cfe4c5d4f71)
 
